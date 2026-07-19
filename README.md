@@ -333,7 +333,6 @@ This dashboard helps organizations to:
 
 
 
-
 🙏 Acknowledgment
 
 I would like to thank Rishabh Mishra for his guidance and encouragement throughout this project. Although the project—including data cleaning, analysis, DAX calculations, dashboard development, forecasting, and documentation—was completed independently by me.
