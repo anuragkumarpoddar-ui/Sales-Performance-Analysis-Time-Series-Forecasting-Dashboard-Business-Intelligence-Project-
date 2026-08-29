@@ -150,6 +150,7 @@ Business Value:
 
 ---
 
+
 ### Sales Forecast Table
 
 Used for creating future sales forecasts based on historical trends.
