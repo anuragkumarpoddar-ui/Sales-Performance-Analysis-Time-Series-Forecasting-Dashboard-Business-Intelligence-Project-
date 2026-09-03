@@ -324,7 +324,6 @@ This dashboard helps organizations to:
 
 ---
 
-
 <div align="center">
 
 ### ⭐ If you found this project helpful, consider giving it a Star!
